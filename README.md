@@ -4,7 +4,7 @@
 This project is dedicated to robust cancer diagnosis through the utilization of an ensemble of deep learning architectures. The primary objective is to create an efficient and accurate system capable of identifying various types of cancer from medical images. The ensemble consists of models specifically tailored for oral, brain, breast, cervical, lung, and lymphoma cancers.
 
 ## Dataset
-The dataset used for training and evaluation can be accessed [here](https://www.kaggle.com/datasets/obulisainaren/multi-cancer). Please download the dataset before running the code.
+The dataset used for training and evaluation can be accessed [here](www.kaggle.com/datasets/obulisainaren/multi-cancer). Please download the dataset before running the code.
 
 ## Preprocessing
 The preprocessing phase involves the following essential steps:
